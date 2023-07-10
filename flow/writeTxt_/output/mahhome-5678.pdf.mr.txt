@@ -32,6 +32,19 @@
 महिन्याच्या कालावधीसाठी पाहिलेल्या सल्लागाराच्या कामासाठी रु. २७,३४,६५० /- (अक्षरी रुपये
 सत्तावीस लाख चौतीस हजार सहाशे पन्नास फक्त) एवढ्या रकमेची देयके मे.केपीएमजी कंपनीस
 अदा करण्यास मंजूरी देण्यात येत आहे. सदर देयकांचा सविस्तर तपशिल खालीलप्रमाणे आहे:
+----------------------------------------------------------------------------------------------
+| 10.11.2016 To 09.02.2017 |
+| Sr. No. | Resource Name | Role | Period | Man months | Rate | Total Amount |
+|  | Amit Patjoshi | Principal Consultant | 10 November 2016 to 10th December 2016 | 0.5 | 275000 | 137500 |
+| 2 | Kiran Pai | Senior Consultant | 10 November 2016 to 10th December 2016 | 1 | 220000 | 220000 |
+| 3 | Bhavana Verma | Senior Consultant | 10 November 2016 to 10th December 2016 | 1 | 220000 | 220000 |
+| 4 | Ashish Gupta | Senior Consultant | 10 November 2016 to 10th December 2016 | 1 | 220000 | 220000 |
+|  | Sandeep Lanjewar | Consultant | 10 November 2016 to 10th December 2016 | 1 | 160000 | 160000 |
+| 6 | Swati Baniya | Consultant | 10 November 2016 to 10 February 2017 | 3 | 160000 | 480000 |
+| 7 | Keyur Paralkar | Senior Consultant | 10 December 2016 to 10 February 2017 | 2 | 220000 | 440000 |
+| 8 | Mitesh Shah | Senior Consultant | 10 November 2016 to 10th February 2017 (50%) | 2 | 220000 | 440000 |
+|  |  |  |  | 11.5 GST Total | CGST ( 9%) SGST (9% ) | 23,17,500 2,08,575 2,08,575 27,34,650 |
+----------------------------------------------------------------------------------------------
 टीप:
 अ) सदर रकमा या संदर्भात उपरोक्त नमुद शासन निर्णय क्र. १ अन्वये निश्चित केल्यानुसार ई
 चलान प्रकल्पासाठी सल्लागारांना दरमहिना दरमाणुस (Man-Month) तत्वानुसार अदा करण्यात

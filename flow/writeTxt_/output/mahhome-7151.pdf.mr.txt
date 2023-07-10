@@ -14,3 +14,10 @@
 शासन निर्णय : सुधारित कार्यपध्दतीनुसार केंद्र पुरस्कृत योजनेच्या अंमलबजावणीसाठी एका Single Nodal Agency (SNA) ची नेमणूक करुन योजनेसाठी प्राधिकृत बँकेमध्ये स्वतंत्र Single Nodal Bank Account उघडण्याच्या सूचना वित्त विभागाने दिनांक ०१.०७.२०२१ रोजीच्या शासन परिपत्रकान्वये निर्गमित केलेल्या आहेत. त्यानुषंगाने, विशा-६, गृह विभाग या कार्यासनांतर्गत येणा-या योजनांबाबत पुढीलप्रमाणे Single Nodal Agency (SNA) ची नेमणूक करण्यात येत आहे.
 # Page 2
 शासन निर्णय क्रमांकः पीएडब्ल्यू-०७२२/प्र.क्र.२२८/विशा-६
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Name of the Govt. of India  |  Scheme | Name of the Scheme in the state | Central Share and CRC Code | State Share and CRC  |  Code | Single Nodal Agency (SNA) |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Safe City Projects (4077)  |  | Mumbai Safe  |  City Project under Nirbhaya  |  Fund | 60% 40550288 | 40% 40550297 | Deputy Secretary/Joint Secretary, Special-6, Home Department, Mantralaya, Mumbai. |
+| 2 | Women Help Desk (4095) | Women Help  |  Desk in police station under  |  Nirbhaya Fund | 100% 40550303 |  | Deputy Secretary/Joint Secretary, Special-6, Home Department, Mantralaya, Mumbai. |
+| 3 | Anti Human Trafficking Units (4095) | Anti Human  |  Trafficking Units under_Nirbhaya  |  Fund | 100% 40550312 |  | Deputy Secretary/Joint Secretary, Special-6, Home Department, Mantralaya, Mumbai. |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

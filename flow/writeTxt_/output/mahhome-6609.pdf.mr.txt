@@ -21,6 +21,17 @@ Senior Consultant आणि १ Associate Consultant माईलस्टोन
 निविदा प्रक्रिया पुर्ण होईपर्यंत एकूण ८ मनुष्य महिना (८ Man - Months) इतक्या कालावधी करीता
 पुढील तालिकेत दर्शविल्याप्रमाणे मान्यता देण्यात येत आहे.
 Annexure A-Milestone based plan for integrated Towing Van for Mumbai City Project.
+----------------------------------------------------------------------
+|  | Milestones | Deliverables | Effort in Man-month | Month wise Distribution |
+| Senior Consultant | Consultant | Total | M1 | M2  |  | M3 | M4 |
+| A | RFP Preparation & Approval | Draft RFP 2.0 submission | 0.5 | 0.5 |  |  |  |  |  |
+| Final RFP 2.0 submission | 0.5 | 0.5 | 1 | 1 |  |  |  |
+| B | Bid Process Management | RFP Publication | 0.5 | 0.5 |  |  | 1 |  |  |
+| Corrigendum (If any) | 0.5 | 0.5 |  |  | 1 |  |  |
+| Technical Evaluation Approval |  | 1 | 2 |  |  | 2 |  |
+| Financial Evaluation Approval | 0.5 | 0.5 | J - |  |  |  | 1 |
+| Contract Award | 0.5 | 0.5 | 1 |  |  |  | 1 |
+----------------------------------------------------------------------
 २. उपरोक्त सल्लागारांना देण्यात येणारे मानधन व इतर भत्ते माहिती व तंत्रज्ञान विभागाकडील संदर्भ
 क्र.३ येथे नमूद दि.९.०५.२०१९ च्या शासन निर्णयातील तरतूदीनुसार देय राहील. तथापि, माहिती व तंत्रज्ञान विभागाने सल्लागारांच्या मानधनासंदर्भात भविष्यात काही सुधारणा केल्यास सदर सुधारणा
 देखील उपरोक्त सल्लागारांना लागू राहतील.

@@ -36,14 +36,70 @@
 ई) नियोजित जागा ताब्यात असल्याचे प्रमाणपत्र प्राप्त करुनच सदर कामाच्या निविदा सूचना
 प्रसिद्ध करण्यात याव्यात.
 २. सदर अंदाजपत्रकातील खर्चाचा तपशिल (Recapitulation Sheet) खालीलप्रमाणे आहे :
+--------------------------------------
+| Sr.No. | Particulars of Scope | Cost Rs. |
+| (A) | ESSENTIAL ITEMS (Components) |  |
+| 1 | (a) Building proper |  |
+|  | Ground Floor | 2,44,85,570.00 |
+|  | 1st Floor | 2,02,82,090.00 |
+|  | Two Quarters | 25,63,120.00 |
+|  | Plinth Protection | 12,42,290.00 |
+|  | Watchman Cabin | 2,76,000.00 |
+|  |  | 4,88,49,070.00 |
+|  |  | (b)Fuel gas pipeline | 0 |
+--------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः एमव्हीडी-०९२०/प्र.क्र.१७७/परि-४, दिनांक २३ फेब्रुवारी २०२१
 (c) Bio Digester 0
+----------------------------------------------------------------
+|  | (d)Rain /Roof Water Harvesting | 0 |
+|  | (e) Solar Roof Top (MoU to be executed)* | 0 |
+|  | (f) Ramp For Handicaps | 0 |
+|  | (g) Furniture 1946.42 X 70%=1362 | 54,49,976.00 |
+| 2 | Water Supply & Sanitary Works | 24,42,454.00 |
+| 3 | Electrification Internal 5% of (a) | 24,42,454.00 |
+|  | External 6% of (a) | 29,30,944.00 |
+|  | Fire Fighting Arrangements | 15,00,000.00 |
+|  | Sub Total (A) | 6,36,14,898.00 |
+| (B) | MISCELLANEOUS ITEMS |  |
+|  | (1) Compound Wall & Gate (Rmt) | 50,00,000.00 |
+|  | (ii)Internal Roads (Rmt) | 1,00,00,000.00 |
+|  | (iii)Development of Ground | 20,00,000.00 |
+|  | (iv) Parking | 15,00,000.00 |
+|  | (v) Retaining Wall | 0 |
+|  | (vi) Land Scaping | 5,00,000.00 |
+|  | (vii) Soil Investigation & Detail Land Survey | 5,00,000.00 |
+|  | (viii) CC Drains and C/D Works | 10,00,000.00 |
+|  | (ix) Flag Post | 2,00,000.00 |
+|  | (x) Clients & Ladies Toilet Block | 10,00,000.00 |
+|  | (xi) Paving Block | 10,00,000.00 |
+|  | (xii) Garrage, Cycle Stand, Vehicle Shed | 15,00,000.00 |
+|  | (xiii) View Gallery | 25,00,000.00 |
+|  | Sub Total (B) | 2,67,00,000.00 |
+| (C) | OPTIONAL ITEMS |  |
+| 1 | Underground Water Tank for R/W Harvesting (Cu.M) | 5,00,000.00 |
+| 2 | Water Main Storage and pump house, bore well | 10,00,000.00 |
+| 3 | Air Conditioning | 5,00,000.00 |
+| 4 | Lifts | 0 |
+----------------------------------------------------------------
 पृष्ठ ५ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः एमव्हीडी-०९२०/प्र.क्र.१७७/परि-४, दिनांक २३ फेब्रुवारी २०२१
 5 External Toilets 15,00,000.00
+---------------------------------------------------------
+| 6 | AB Room, Area lighting, Pumps, Generator | 10,00,000.00 |
+| 7 | CCTV | 2,00,000.00 |
+|  | Sub Total (C) | 47,00,000.00 |
+|  | Project Cost (P)=(A)+(B)+(C) | 9,50,14,898.00 |
+| (D) | PROVISIONS |  |
+|  |  | (i)Contingencies 4% on (a ) | 19,53,963.00 |
+|  | (ii)GST 12% on (P) | 1,14,01,788.00 |
+|  |  | (iii) Price Escalation 5% on (P) | 47,50,745.00 |
+|  | Sub Total (D) | 1,81,06,496.00 |
+|  | TOTAL COST OF PROJECT (TPC)(A+B+C+D) | 11,31,21,394.00 |
+|  | Say Rs. Lakhs | 1131.21 |
+---------------------------------------------------------
 ३. सदर शासन निर्णय, सार्वजनिक बांधकाम विभागाच्या अनौपचारीक संदर्भ क्र.९०/२०२०/इमा
 २, दि.२९.१२.२०२० अन्वये दिलेल्या सहमतीनुसार निर्गमीत करण्यात येत आहे.
 ४. सदरहू प्रशासकीय मान्यतेच्या अनुषंगाने आवश्यक निधीची तरतूद स्वतंत्र्यपणे करण्यात येईल.

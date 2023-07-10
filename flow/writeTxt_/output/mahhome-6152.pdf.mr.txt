@@ -26,6 +26,24 @@
 पृष्ठ ३ पैकी १
 # Page 2
 शासन निर्णय क्रमांक: एमआयएस ०२२०/प्र.क्र.०९/बंदरे-२
+---------------------------------------------------------------
+| Sr.No. | Description of Work | Amount |
+| 1 | Fixed Walkway (Including link span & pontoon ) | 52,49,92,139 |
+| 2 | Terminal Platform & Alied work | 23,03,45,070 |
+| a | Terminal Building (Container) | 25,00,000 |
+| b | Platform/Parking | 20,74,99,677 |
+| C | Electrical work | 1,09,78,730 |
+| d | Fire fighting work | 37,48,723 |
+| e | Mechanical (Security Equipment) | 5,89,323 |
+| f | Other Infra work facilities | 50,28,617 |
+| 3 | Sub-Total | 75,53,37,208 |
+|  | Add for Labour Insurance (0.5% ) | 37,76,686 |
+|  | Add 4% for contingencies | 3,02,13,488 |
+|  | Add 4% for PMC Charges | 3,02,13,488 |
+|  | Add 10% for Escalation Charges | 7,55,33,721 |
+|  | Add 12% GST | 9,06,40,465 |
+|  | Grand Total | 98,57,15,057 |
+---------------------------------------------------------------
 २. सदर कामास पर्यावरण तसेच इतर अनुषंगीक विभागांच्या आवश्यक परवानग्या घेण्यात याव्यात.
 ३. सदर कामास केंद्र शासनाची मान्यता व केंद्र हिश्श्याचा निधी प्राप्त झाल्यानंतरच राज्य हिश्श्याचा
 निधी उपलब्ध करून देण्यात येईल.

@@ -22,3 +22,11 @@ Police Forces” या योजने करीता Single Nodal Agency (SNA
 अधिकाऱ्यांची Implementing Agency म्हणून नियुक्ती करण्यात येत आहे.
 # Page 2
 शासन निर्णय क्रमांक: योजना २०२१/प्र.क्र.४५/अर्थ-१
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No.  |  | Govt. of India Scheme Name | Scheme Name in the State | Central CRC Code | State CRC Code | Single Nodal Agency (SNA) | Implementing Agency (IAs) |
+| १ | २ | ३ | ४ | ५ | ६ | ७ |
+| १ | Modernisation of Police Forces | City Police | ४०५५००२७ (६०%) | ४०५५००१८ (४०%) | Joint/Deputy Secretary, Pol-8, Home Department, Mantralay, Mumbai-३२. | Deputy Commissioner of Police (HQ-1) |
+| District Police | ४०५५००४५ (६०%) | ४०५५००३६ (४०%) | Additional Director General of Police (Planning and Communication) |
+| Forensic Science | ४०५५००६३ (६०%) | ४०५५००५४ (४०%) | Director, Forensic Science Laboratories |
+| Student Police Cadet Programme | २०५५९१६८ (६०%) | २०५५९१७७ (४०%) | Additional Director General of Police (Training and Special Unit) |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

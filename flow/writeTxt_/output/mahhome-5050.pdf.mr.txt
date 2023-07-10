@@ -22,6 +22,41 @@
 मान्यता देण्यात येत आहे.
 # Page 2
 शासन निर्णय क्रमांकः जेएलएम-१११७/प्र.क्र.१४४/तुरुंग-२
+---------------------------------------------------------------------------------------------------
+| Name of Work: Construction of Additional Barracks & Ancillary Works at District Jail, Chandrapur |
+| RECAPITULATION SHEET |
+| Sr.No | Particulars of Items |  | Norms (Unit Rate Rs. per Sqmt./Meter/LumpSum etc.) | Cost Rs. |
+| (A) | ESSENTIAL ITEMS |
+| 1. | Building proper (Scope) Barracks |  |  |  |
+|  | (a) Area | 1598.85 | 31000 Per Sqmt. | 4,95,64,350 |
+|  | (b) Number of Floors | GF |  |  |
+|  | (a) Area | 1598.85 | 25000 Per Sqmt | 3,99,71,250 |
+|  | (b) Number of Floors | FF |  |  |
+|  | (a) Area (Hospitals) | 54.16 | 31000 Per Sqmt | 16,78,960 |
+|  | (b) Number of Floors | GF |  |  |
+|  | (a) Area (Kitchen & Store) | 64.08 | 31000 Per Sqmt | 19,86,480 |
+|  | (b) Number of Floors | GF |  |  |
+|  | (a) Area (Yog Sadhana Kendra) | 150.00 | 30000 Per Sqmt | 45,00,000 |
+|  | (b) Number of Floors | GF |  |  |
+|  | (c) Foundation in B.C./ Weak Soil |  |  |  |
+|  | (d) Cost of Construction |  | (Rates Inclusive of 20% extra for Jail Premises) | 9,77,01,040 |
+| 2 | Electrification Internal External | 5% of 1 (d) 6% of 1 (d) TOTAL | 48,85,052 58,62,062 1,07,47,114 |
+| 3 | Water Supply and Sanitation | 5% of 1 (d) TOTAL | 48,85,052 |
+| 4 | Miscellaneous Items |  |
+|  |  | 0 |
+|  | Sub Total (A) = (1)+(2)+(3)+(4) | 11,33,33,206 |
+| (B) | OPTIONAL ITEMS |  |  |  |
+| Sr | Items |  |  |  |
+|  |  |  |  |  |
+|  | Subtotal (B) | 0 |
+|  | PROJECT (A)+(B) (T) | 11,33,33,206 |
+|  | TOTAL | 11,33,33,206 |
+|  | Add 4% for contingencies on (d) | 39,08,042 |
+|  | Add 10% for Price Escalation on (T) | 1,13,33,321 |
+|  | Add 12% for GST on (T) | 1,35,99,985 |
+|  | TOTAL COST OF PROJECT | 14,21,74,553 |
+|  | Say Rs. Lakhs | 1,422.75 |
+---------------------------------------------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः जेएलएम-१११७/प्र.क्र.१४४/तुरुंग-२

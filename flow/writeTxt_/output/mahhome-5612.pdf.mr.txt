@@ -27,6 +27,32 @@
 वस्तू आणि सेवा कर मिळून) त्यांना रु.१७,७३,५४०/- (अक्षरी सतरा लाख त्र्याहत्तर हजार पाचशे
 चाळीस रुपये फक्त) इतक्या रकमेची देयके अदा करण्यास मंजूरी देण्यात येत आहे. सदर देयकांचा
 तपशील खालीलप्रमाणे आहे :
+------------------------------------------------------------------------------------------------------------------------------------------
+| Mumbai CCTV Project ( March 2019 to April 2019) |
+|  |  |  |  |  |  |  |  | Applicabl |  |  |  |  |  |  |
+|  | Man |  |  | Deploym |  |  |  | Total |  |  | OPE |  |
+|  | Total |  |
+|  | Mont |  |  | Resource |  | Month | ent | Amount | Applicable | Claim |  | Sub Total |  |  | GST @ |  |
+|  |  |  |  | Period |  |  | Designation |  | Amount |
+|  | Name | Rate | Percenta | per | Amount | ed | (INR) | 18% |
+|  |  |  | (INR) |
+|  |  | (INR) | ge) |  | (INR) | (INR) |  |  |
+|  |
+|  |  | e (INR) |  |  |
+|  |  |  |  |  |  |  |  |  |  | I |  | L = 18% OF |  |  |
+|  | A |  |  | B |  |  | C |  |  | D |  |  | E |  |  | F |  |  | G |  |  | H = FXG |  |  | । |  |  | J |  |  | K = I+J |  |  | M = K+L |  |
+| K |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 01st March 2019 to 30th April | Mar 19 | Shri. Subhash Patil | Principal Consultant | 3,24,000 | 25% | 81,000 | 7,51,500 | 0 | 7,51,500 | 1,35,270 | 8,86,770 |
+| Shri. Nikhil Pande | Managing Consultant | 2,79,000 |  | 1,39,500 |
+| Shri. Abul Zaidi | Managing Consultant | 2,79,000 | 100% | 2,79,000 |
+| Shri. Ravi | Senior Consultant | 2,52,000 |  | 2,52,000 |
+|  | Apr 19 | Shri. Subhash | Principal Consultant | 3,24,000 | 25% | 81,000 | 7,51,500 | 0 | 7,51,500 | 1,35,270 | 8,86,770 |
+| Shri. Nikhil Pande | Managing Consultant | 2,79,000 | 50% | 1,39,500 |
+| Shri. Abul Zaidi | Managing Consultant | 2,79,000 | 100% | 2,79,000 |
+| Shri. Ravi Kumar | Senior Consultant | 2,52,000 | 100 | 2,52,000 |
+| Total | 15,03,000 |  | 15,03,000 | 2,70,540 | 17,73,540 |
+------------------------------------------------------------------------------------------------------------------------------------------
 टीप:
 अ) उपरोक्त रकमा ह्या दरमहिना दरमाणूस (Man-Month) तत्वानुसार अदा करण्यात येत
 आहे.

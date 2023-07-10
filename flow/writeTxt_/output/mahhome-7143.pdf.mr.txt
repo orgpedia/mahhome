@@ -24,16 +24,88 @@
 आहे.
 २. सदरील प्रत्येक प्रकल्पनिहाय खर्चाचा तपशिल खालीलप्रमाणे:
 १) मुंबई (पश्चिम) २) सोलापूर
+-------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (Rs. In Lakhs) |
+| 1 | Creating suitable building and infrastructure at the site for 4 lane operation | 450.00 |
+| 2 | Equipment for four lanes with two years warranty and three years AMC (Comprehensive) | 425.00 |
+| 3 | Utility Cost (DG sets, Compressor, furniture, air-condition, etc.) | 92.00 |
+| 4 | Lane Management software including connectivity of test centre to department data base | 130.00 |
+| 5 | Project Management fees | 42.25 |
+| 6 | Five years Operation Cost | 600.00 |
+| 7 | Garage Auditing (approx. 25 nos. around the test Centre) | 25.00 |
+| 8 | Six audit during operation (2 years) of the Centre | 18.00 |
+| Total | 1782.25 |
+| 18% GST | 320.80 |
+| Grand Total | 2103.05 |
+-------------------------------------------------------------------------------------------------
 ३) श्रीरामपूर ४) लातूर ५) नागपूर (ग्रामीण) ६) सातारा
+-------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (Rs. In Lakhs) |
+| 1 | Creating suitable building and infrastructure at the site for 3 lane operation | 450.00 |
+| 2 | Equipment for 3 lanes with two years warranty and three years AMC (Comprehensive) | 325.00 |
+| 3 | Utility Cost (DG sets, Compressor, furniture, air-condition, etc.) | 92.00 |
+| 4 | Lane Management software including connectivity of test centre to department data base | 130.00 |
+| 5 | Project Management fees | 42.25 |
+| 6 | Five years Operation Cost | 600.00 |
+-------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः एमव्हीडी-०६२१/प्र.क्र.१५१/परि-४,
+------------------------------------------------------------------
+| 7 | Garage Auditing (approx. 25 nos. around the test Centre) | 25.00 |
+| 8 | Six audit during operation (2 years) of the Centre | 18.00 |
+| Total | 1682.25 |
+| 18% GST | 302.80 |
+| Grand Total | 1985.05 |
+------------------------------------------------------------------
 ७) बारामती ८) बुलडाणा ९) नांदेड
+-------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (Rs. In Lakhs) |
+| 1 | Creating suitable building and infrastructure at the site for 3 lane operation | 600.00 |
+| 2 | Equipment for three lanes with two years warranty and three years AMC (Comprehensive) | 325.00 |
+| 3 | Utility Cost (DG sets, Compressor, furniture, air-condition, etc.) | 92.00 |
+| 4 | Lane Management software including connectivity of test centre to department data base | 130.00 |
+| 5 | Project Management fees | 42.25 |
+| 6 | Five years Operation Cost | 600.00 |
+| 7 | Garage Auditing (approx. 25 nos. around the test Centre) | 25.00 |
+| 8 | Six audit during operation (2 years) of the Centre | 18.00 |
+| Total | 1832.25 |
+| 18% GST | 329.80 |
+| Grand Total | 2162.05 |
+-------------------------------------------------------------------------------------------------
 १०) अंबेजोगाई ११) अकोला
+-------------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (Rs. In Lakhs) |
+| 1 | Creating suitable building and infrastructure at the site for 2 lane operation + Admin block | 300.00 |
+| 2 | Equipment for 2 lanes with two years warranty and three years AMC (Comprehensive) | 225.00 |
+| 3 | Utility Cost (DG sets, Compressor, furniture, air-condition, etc.) | 50.00 |
+| 4 | Lane Management software including connectivity of test centre to department data base | 100.00 |
+| 5 | Project Management fees | 42.25 |
+| 6 | Five years Operation cost | 325.00 |
+| 7 | Garage Auditing (approx. 25 nos. around the test Centre) | 25.00 |
+| 8 | Six audit during operation (2 years) of the Centre | 18.00 |
+| Total | 1085.25 |
+| 18% GST | 195.35 |
+| Grand Total | 1280.60 |
+-------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः एमव्हीडी-०६२१/प्र.क्र.१५१/परि-४,
 १२) परभणी १३) वाशिम
+-------------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (Rs. In Lakhs) |
+| 1 | Creating suitable building and infrastructure at the site for 2 lane operation + Admin block | 450.00 |
+| 2 | Equipment for 2 lanes with two years warranty and three years AMC (Comprehensive) | 225.00 |
+| 3 | Utility Cost (DG sets, Compressor, furniture, air-condition, etc.) | 50.00 |
+| 4 | Lane Management software including connectivity of test centre to department data base | 100.00 |
+| 5 | Project Management fees | 42.25 |
+| 6 | Five years Operation cost | 325.00 |
+| 7 | Garage Auditing (approx. 25 nos. around the test Centre) | 25.00 |
+| 8 | Six audit during operation (2 years) of the Centre | 18.00 |
+| Total | 1235.25 |
+| 18% GST | 222.34 |
+| Grand Total | 1457.59 |
+-------------------------------------------------------------------------------------------------------
 ३. उपरोक्त मान्यता ही खालील अटींच्या अधीन राहून देण्यात येत आहे:
 i) प्रस्तुत केंद्र स्थापन करण्यास कार्यालयाकडे स्वमालकीची पुरेशी जागा उपलब्ध आहे याची खातरजमा करावी.
 ii) प्रस्तुत केंद्र महाराष्ट्र राज्य मार्ग परिवहन महामंडळ यांचे जागेवर स्थापन करावयाचे

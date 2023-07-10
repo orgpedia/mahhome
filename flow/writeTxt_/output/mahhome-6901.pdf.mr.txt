@@ -22,6 +22,48 @@
 (मानधन, इतर खर्च व वस्तू आणि सेवा कर मिळून) रु.८२,७०,८५६/- (रुपये ब्याऐंशी लाख सत्तर हजार
 आठशे छपन्न फक्त) इतक्या रकमेची देयके मे. पीड्ब्ल्युसी कंपनीस अदा करण्यास मंजूरी देण्यात येत आहे
 :
+-----------------------------------------------------------------------------------------------------------------------
+|  |
+|  | Mumbai CCTV Project (August 2020 July 2021 ) |  |
+|  |
+|  |  |  |  |  |  | Man |  |  | Deploym |  |  | Applicable |  |  |  |  |  |
+|  | OPE |  |  | Total |  |
+|  | Peri |  |  | Resource |  | Month | ent | Amount per |  | Sub Total |  |  | GST @ |  |
+|  | # |  |  | Month |  |  | Designation |  | Claimed | Amount |
+| od | Name | Rate | (Percenta | Resource | (INR) | 18% |
+|  |  |  | (INR) | (INR) |
+|  |  | (INR) | ge) | (INR) |  |  |
+|  |  |
+|  |  |  |  |  |  |  |  |  |  | J= 18% OF |  |  |  | L = I + J + |  |
+|  | A |  |  | B |  |  | C |  |  | D |  |  | E |  |  | F |  |  | G |  |  | H = FxG |  |  | I |  |  | K |  |
+| I | K |
+|  |  |  |  |  |  |  |  |  |  |
+| 1 | Aug. 202 0 to Mar. 2021 | Aug-20 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | O | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 2 | Sep-20 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | O | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 3 | Oct-20 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | 0 | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 4 | Nov-20 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | 0 | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 5 | Dec-20 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | O | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 6 | Jan 21 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 |  | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 7 | Feb-21 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | ● | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 8 | Mar 21 | Abul Zaidi | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | O | 6,89,238 |
+| Ravi Kumar | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+|  | Apr. 2021 to Jun. 2021 | Apr-21 | Abhishek Dixit | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | O | 6,89,238 |
+| Kedar Sane | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 10 | May-21 | Abhishek Dixit | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | O | 6,89,238 |
+| Kedar Sane | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 11 | June-21 | Abhishek Dixit | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | 0 | 6,89,238 |
+| Kedar Sane | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| 12 | Jul. 2021 | July-21 | Abhishek Dixit | Managing Consultant | 3,06,900 | 100% | 3,06,900 | 5,84,100 | 1,05,138 | O | 6,89,238 |
+| Kedar Sane | Senior Consultant | 2,77,200 | 100% | 2,77,200 |
+| Total | 70,09,200 | 70,09,200 | 12,61,656 | 0 | 82,70,856 |
+-----------------------------------------------------------------------------------------------------------------------
 २. अ) उपरोक्त रकमा संदर्भ क्र. २ मध्ये नमुद शासन निर्णयान्वये निश्चित केल्यानुसार सीसीटीव्ही
 प्रकल्पासाठी सल्लागारांना दरमहिना दरमाणुस (Man - Month) तत्वानुसार अदा करण्यात येत
 आहे.

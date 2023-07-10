@@ -58,9 +58,22 @@
 उर्वरीत पोलीस ठाण्यांमध्ये सीसीटीव्ही कॅमेरे बसविण्याची कार्यवाही करण्यात यावी.
 ३. मा.न्यायालयाच्या आदेशानुसार प्रत्येक पोलीस ठाण्यामध्ये सीसीटीव्ही प्रणाली कार्यान्वित करण्याची
 कार्यवाही खालीलप्रमाणे नमूद बाबी विचारात घेऊन करण्यात यावी :
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | Sr. No |  |  | Design Consideration |  |  | Requirement |  |
+| 1 | Number and type/technology of | Number of cameras may vary from 7 cameras to 15 cameras per police station as per the size of police station. Type of cameras will be mix of following: Varifocal indoor dome cameras for indoor surveillance. Varifocal outdoor bullet for outdoor environment. Pan tilt zoom camera for main entry/exit. All cameras to be IP based and should have inbuilt IR illuminator. |
+| 2 | Type of locations where camera has to be installed | 1. Entry/Exit Gate 2. Police Station Entry 3. Passage 4. Station House 5. Officers Room 6. Charge Room 7. Lockup 8. Other Room if any |
+| 3 | Location of viewing center and IT infrastructure | Viewing center to be setup in the room of Police Station in charge 32” inch LED TV connected with NVR. |
+| 4 | Days of storage | 365 days for camera installed in Lockup 90 days for all other cameras. If any incident has been reported, the video footage for same has to be kept for longer duration i.e. more than year and same has to be written on DVD through External/Internal DVD writer. |
+| 5 | UPS backup | Minimum backup of 1 Hour. |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः सीसीटी-३६१५/प्र. क्र. १३०/पोल-३
+------------------------------------------------------------------------------------------------------------------------------------------------
+|  | Sr. No |  |  | Design Consideration |  |  | Requirement |  |
+| 6 | Cyber Security | In order to protect the video against any tampering, desired protection layer to be added on the recorded and exported video. |
+| 7 | Warranty and AMC | Minimum warranty for one year and AMC for additional 4 years. |
+------------------------------------------------------------------------------------------------------------------------------------------------
 ४. सचिव, माहिती व तंत्रज्ञान संचालनालय यांनी संदर्भाधीन क्र.०३ वरील दि.४.३.२०१३ चे पत्रान्वये
 विहीत केलेल्या मार्गदर्शक तत्वानुसार सदर पोलीस ठाण्यांमध्ये सीसीटीव्ही बसविण्याची कार्यवाही करण्यात
 यावी. मा.मुंबई उच्च न्यायालयाने दि.१३.८.२०१४ रोजी पारित केलेल्या निर्देशांमध्ये सदर चित्रीकरण एक वर्षे

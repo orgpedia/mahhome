@@ -14,6 +14,18 @@
 # Page 2
 शासन निर्णय क्रमांकः एमव्हीडी-१०१८/प्र.क्र.२२०/परि-४, दि. २२ जानेवारी २०१९
 शासन निर्णय: मुंबई मधील कुर्ला, नेहरुनगर येथील महाराष्ट्र राज्य मार्ग परिवहन महामंडळाच्या जागेवर ऑटोमोटीव्ह रिसर्च असोसिएशन ऑफ इंडीया, पुणे या संस्थेमार्फत वाहन निरीक्षण व परिक्षण केंद्र (Inspection and Certification Centre) स्थापन करण्यास रु.१४,००,००,०००/- (रुपये चौदा कोटी फक्त) इतक्या खर्चाच्या अंदाजपत्रकास प्रशासकीय व वित्तीय मान्यता देण्यात येत आहे. त्याबाबतचा तपशिल खालीलप्रमाणे:
+-------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (Rs. In Lakhs) |
+| 1 | Creating suitable building and infrastructure at the site for 4 lane operation | 450.00 |
+| 2 | Equipment for four lanes with two years warranty and five years AMC (Comprehensive) | 360.00 |
+| 3 | Utility Cost (DG sets, Compressor, furniture, air-condition, etc) | 92.00 |
+| 4 | Lane Management software including connectivity of test centre to department data base | 130.00 |
+| 5 | Project Management fees | 75.00 |
+| 6 | Operation Cost | 250.00 |
+| 7 | Garage Auditing (approx. 25 nos around the test Centre) | 25.00 |
+| 8 | Six audit during operation (2 years) of the Centre | 18.00 |
+| Total | 1400.00 |
+-------------------------------------------------------------------------------------------------
 २. उपरोक्त मान्यता ही खालील अटींच्या अधीन राहून देण्यात येत आहे.
 i) प्रस्तुत वाहन निरीक्षण आणि परिक्षण केंद्र (Inspection and Certification Centre) हे महाराष्ट्र राज्य मार्ग परिवहन महामंडळ यांचे जागेवर उभारण्यात यावे.
 ii) प्रस्तुत वाहन निरीक्षण आणि परिक्षण केंद्र (Inspection and Certification Centre) हे

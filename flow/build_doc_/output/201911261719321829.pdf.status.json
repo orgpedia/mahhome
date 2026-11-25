@@ -1,0 +1,87 @@
+{
+  "name": "201911261719321829.pdf",
+  "file_id": "f_1fda09f3b483f913",
+  "source": {
+    "path": "input/pdfs/2019-11/201911261719321829.pdf",
+    "sha256": "1fda09f3b483f913ec2adacc0e14f89d50a43bad9e860c7a296459cc3ab39c29"
+  },
+  "state": {
+    "last_revision": 13,
+    "edits_file": "201911261719321829.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  },
+  "status": "done",
+  "issues": {
+    "total": 0,
+    "by_code": {}
+  },
+  "versions": {
+    "text": {
+      "task": "pdf_text",
+      "version": "2",
+      "config_hash": "931579119111be51"
+    },
+    "text_check": {
+      "task": "deva_check",
+      "version": "2",
+      "config_hash": "9a1b77773d6e120b"
+    },
+    "lines": {
+      "task": "ruled_lines",
+      "version": "1",
+      "config_hash": "4f706b173995149c"
+    },
+    "layout": {
+      "task": "pdftable_finder",
+      "version": "4",
+      "config_hash": "73a5da94cb815e43"
+    },
+    "tables": {
+      "task": "pdftable_cells",
+      "version": "4",
+      "config_hash": "351dc1f0d6ff199b"
+    },
+    "table_check": {
+      "task": "ruled_table_check",
+      "version": "1",
+      "config_hash": "49d9164e34fe06f1"
+    },
+    "split": {
+      "task": "section_splitter",
+      "version": "1",
+      "config_hash": "74c13122b03cd09f"
+    },
+    "roles": {
+      "task": "pattern_tagger",
+      "version": "1",
+      "config_hash": "418463d2305360d3"
+    },
+    "lists": {
+      "task": "list_finder",
+      "version": "2",
+      "config_hash": "ca8c008a37ab79e8"
+    },
+    "role_check": {
+      "task": "pattern_check",
+      "version": "1",
+      "config_hash": "13dc2becc37c4f9c"
+    },
+    "block_check": {
+      "task": "block_check",
+      "version": "1",
+      "config_hash": "d7547d9eb4bde633"
+    },
+    "values": {
+      "task": "value_tagger",
+      "version": "1",
+      "config_hash": "a4cacb04eb078be5"
+    }
+  },
+  "output": {
+    "path": "../../export/build_doc_/201911261719321829.pdf.govdoc.json.zst",
+    "sha256": "a5629521490390a4b571e44468aacbc4d53012d2b8c280f1df7094a008d8a754",
+    "size": 26793,
+    "revision": 13
+  }
+}

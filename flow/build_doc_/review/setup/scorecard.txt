@@ -1,0 +1,40 @@
+mahhome: 7,073 GRs read (0 set aside, left out); beside mahadmin (12,228 GRs), mahbah (1,595 GRs), mahdis (169 GRs), mahedu (6,114 GRs), mahenv (822 GRs), mahfin (1,598 GRs), mahfood (1,512 GRs), mahhouse (610 GRs), mahind (3,562 GRs), mahit (185 GRs), mahlaw (2,917 GRs), mahmar (640 GRs), mahmed (1,756 GRs), mahmin (1,671 GRs), mahpar (161 GRs), mahplan (2,720 GRs), mahrev (11,241 GRs), mahrural (6,213 GRs), mahsanit (10,680 GRs), mahskill (1,495 GRs), mahsoc (3,324 GRs), mahsoil (791 GRs), mahtech (4,887 GRs), mahtour (2,224 GRs), mahtrib (4,346 GRs), mahwater (4,869 GRs), mahwom (1,950 GRs)
+
+each cell: how many, and their share of the column's GRs (or of what the measure says, [of ...])
+
+                                                         all mahadmin     before 2010 mahadmin       2010-2019 mahadmin       from 2020 mahadmin
+GRs                                                    7,073                        0                    3,277                    3,796         
+pages                                                 20,866                        0                    9,226                   11,640         
+pages read by OCR                                          0                        0                        0                        0         
+
+scans (a page with no text layer)                    0 (0%)     21.5%              -     74.8%         0 (0%)     15.4%         0 (0%)      3.2%
+legacy font or hidden text, read by OCR              0 (0%)     11.4%              -     24.8%         0 (0%)     14.1%         0 (0%)      1.4%
+pages read by OCR [of pages]                         0 (0%)     31.5%              -       99%         0 (0%)     29.2%         0 (0%)      4.6%
+words a page (median)                                   208       227              -       234            202       220            214       232
+under 30 words a page                                0 (0%)        0%              -      0.1%         0 (0%)        0%         0 (0%)        0%
+characters not converted                         205 (2.9%)      1.7%              -      0.5%     107 (3.3%)      1.9%      98 (2.6%)      2.1%
+no subject                                          68 (1%)     16.6%              -      4.8%      42 (1.3%)     22.6%      26 (0.7%)     14.7%
+no order number                                   10 (0.1%)        3%              -     12.5%       7 (0.2%)      1.4%       3 (0.1%)      0.4%
+no order kind                                     14 (0.2%)      9.9%              -     20.5%      10 (0.3%)      6.8%       4 (0.1%)      8.8%
+no issue date                                    179 (2.5%)     10.8%              -     32.7%      73 (2.2%)      6.7%     106 (2.8%)      5.4%
+no GR code                                        33 (0.5%)       16%              -     74.8%       8 (0.2%)      4.5%      25 (0.7%)      1.8%
+no issue date, nor the portal's                      0 (0%)        0%              -        0%         0 (0%)        0%         0 (0%)        0%
+no decision section                               29 (0.4%)      3.4%              -     12.6%      13 (0.4%)      1.8%      16 (0.4%)      0.9%
+no masthead section                                  2 (0%)      2.6%              -     10.4%         0 (0%)      1.2%       2 (0.1%)      0.4%
+no signature section                              39 (0.6%)      6.4%              -     21.3%       9 (0.3%)      3.5%      30 (0.8%)      2.8%
+a section found without its heading             742 (10.5%)     28.3%              -     62.2%    549 (16.8%)     22.6%     193 (5.1%)     18.9%
+with tables                                   3,637 (51.4%)     46.1%              -     17.2%  1,421 (43.4%)     50.1%  2,216 (58.4%)     55.1%
+a table cell spilling                               69 (1%)      7.5%              -      9.6%      25 (0.8%)      9.9%      44 (1.2%)      3.3%
+a scan's table not kept                              0 (0%)     10.4%              -     39.1%         0 (0%)      6.2%         0 (0%)      1.6%
+flagged: a sentence cut in two                1,087 (15.4%)     41.4%              -     80.7%    380 (11.6%)     35.2%    707 (18.6%)       30%
+flagged: a table to check                     1,014 (14.3%)       25%              -     21.1%      393 (12%)     28.6%    621 (16.4%)     22.4%
+flagged: list lines read as one paragraph        102 (1.4%)      9.9%              -     29.6%      56 (1.7%)      7.1%      46 (1.2%)      3.7%
+flagged: suspect characters                      686 (9.7%)     13.2%              -     17.5%    378 (11.5%)     12.1%     308 (8.1%)     12.6%
+issue date = portal's date (of those read)    6,863 (99.6%)     97.5%              -       90%  3,187 (99.5%)     97.7%  3,676 (99.6%)     99.2%
+GR code = portal's code (of those read)                   -         -              -         -              -         -              -         -
+
+! worse than mahadmin, mahbah, mahdis, mahedu, mahenv, mahfin, mahfood, mahhouse, mahind, mahit, mahlaw, mahmar, mahmed, mahmin, mahpar, mahplan, mahrev, mahrural, mahsanit, mahskill, mahsoc, mahsoil, mahtech, mahtour, mahtrib, mahwater, mahwom by 5 points or more
+  issue date differs from the portal's: 29 GRs (16 within a month), review/setup/scorecard/dates.tsv
+
+20 GRs for a person to mark (ok: y/n; note: what is wrong): review/setup/samples.tsv
+for a person to read: review/setup/scorecard.html
